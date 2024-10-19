@@ -1,6 +1,6 @@
 # Dice Game - Python
 
-## Create a Python program that simulates a simple dice game:
+## Python program that simulates a simple dice game:
 
 1. The program should draw two random numbers from 1 to 6.
 
