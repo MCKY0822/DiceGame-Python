@@ -1,4 +1,4 @@
-# DiceGame-Python
+# Dice Game - Python
 
 ## Create a Python program that simulates a simple dice game:
 
